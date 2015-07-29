@@ -1,19 +1,12 @@
-# Animals CRUD
+# CLJS demo project
 
 ## Running the project
 
-In a terminal, start the web server:
-
-    lein repl
-    (start-server)
-
-In another terminal, start figwheel:
+To compile the ClojureScript run:
 
     lein figwheel
 
-Finally browse to
-[http://localhost:8080/index.html](http://localhost:8080/index.html)
-and have fun.
+Then open `index.html` in a browser and have fun!
 
 ## License
 
